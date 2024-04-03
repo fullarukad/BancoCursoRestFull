@@ -1,4 +1,5 @@
-﻿using Application.Feautres.Clientes.Commands.CreateClienteCommand;
+﻿using Application.DTOs;
+using Application.Feautres.Clientes.Commands.CreateClienteCommand;
 using AutoMapper;
 using Domain.Entities;
 
@@ -8,6 +9,10 @@ namespace Application.Mappings
     {
         public GeneralProfile()
         {
+            #region DTOs
+            CreateMap<Cliente,ClienteDto>();
+            #endregion
+
             #region Commands
             CreateMap<CreateClienteCommand, Cliente>();
             #endregion

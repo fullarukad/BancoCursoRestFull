@@ -15,3 +15,4 @@ C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\Shared
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\Shared\obj\Debug\net8.0\Shared.csproj.CopyComplete
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\Shared\bin\Debug\net8.0\Domain.dll
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\Shared\bin\Debug\net8.0\Domain.pdb
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\Shared\obj\Debug\net8.0\Shared.sourcelink.json

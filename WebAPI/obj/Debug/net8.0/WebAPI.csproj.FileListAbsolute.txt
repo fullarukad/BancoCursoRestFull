@@ -151,3 +151,4 @@ C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Shared.dll
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Shared.pdb
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
