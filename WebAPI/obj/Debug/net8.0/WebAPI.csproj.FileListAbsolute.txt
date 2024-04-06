@@ -152,3 +152,10 @@ C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Shared.pdb
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\fulla\OneDrive\Documentos\Data_Doug\Tutorial\BancoCursoRestTFull\WebAPI\bin\Debug\net8.0\StackExchange.Redis.dll
