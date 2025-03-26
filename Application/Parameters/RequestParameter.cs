@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Application.Parameters
+﻿namespace Application.Parameters
 {
     public class RequestParameter
     {
@@ -18,8 +12,8 @@ namespace Application.Parameters
 
         public RequestParameter(int pageNumber, int pageSize)
         {
-            this.PageNumber = pageNumber <1? 1: pageNumber;
-            this.PageSize = pageSize > 10? 10:pageSize;
+            this.PageNumber = pageNumber < 1 ? 1 : pageNumber;
+            this.PageSize = pageSize > 10 ? 10 : pageSize;
         }
     }
 }

@@ -8,7 +8,6 @@ using MediatR;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 using System.Text;
-using System.Text.Json.Serialization;
 
 namespace Application.Feautres.Clientes.Queries.GetAllClientes
 {
@@ -55,10 +54,10 @@ namespace Application.Feautres.Clientes.Queries.GetAllClientes
                         .SetSlidingExpiration(TimeSpan.FromMinutes(2));
 
                     await _distrbutedCache.SetAsync(cacheKey, redisListadoClientes, options);
-                }                
+                }
                 var clientesDto = _mapper.Map<List<ClienteDto>>(listadoClientes);
 
-                return new PagedResponse<List<ClienteDto>>(clientesDto,request.PageNumber,request.PageSize);
+                return new PagedResponse<List<ClienteDto>>(clientesDto, request.PageNumber, request.PageSize);
             }
         }
     }

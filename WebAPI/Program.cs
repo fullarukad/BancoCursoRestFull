@@ -1,10 +1,9 @@
 
 using Application;
-
-using static Application.ServiceExtensions;
 using Persistence;
 using Shared;
 using WebAPI.Extensions;
+using static Application.ServiceExtensions;
 
 var builder = WebApplication.CreateBuilder(args);
 

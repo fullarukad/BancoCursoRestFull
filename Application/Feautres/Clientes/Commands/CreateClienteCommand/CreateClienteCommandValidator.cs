@@ -1,13 +1,8 @@
 ﻿using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Feautres.Clientes.Commands.CreateClienteCommand
 {
-    public class CreateClienteCommandValidator: AbstractValidator<CreateClienteCommand>
+    public class CreateClienteCommandValidator : AbstractValidator<CreateClienteCommand>
     {
         public CreateClienteCommandValidator()
         {
@@ -33,7 +28,7 @@ namespace Application.Feautres.Clientes.Commands.CreateClienteCommand
                 .MaximumLength(100).WithMessage("{PropertyName} no debe exceder de {MaxLenght} caracteres");
 
             RuleFor(p => p.Direccion)
-                .NotEmpty().WithMessage("{PropertyName} no puede ser vacio.")                
+                .NotEmpty().WithMessage("{PropertyName} no puede ser vacio.")
                 .MaximumLength(120).WithMessage("{PropertyName} no debe exceder de {MaxLenght} caracteres");
 
 

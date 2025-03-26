@@ -10,7 +10,7 @@ namespace Application.Mappings
         public GeneralProfile()
         {
             #region DTOs
-            CreateMap<Cliente,ClienteDto>();
+            CreateMap<Cliente, ClienteDto>();
             #endregion
 
             #region Commands

@@ -4,18 +4,13 @@ using Application.Wrappers;
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Feautres.Clientes.Queries.GetClienteById
 {
     public class GetClienteByIdQuery : IRequest<Response<ClienteDto>>
     {
         public int Id { get; set; }
-        public class GetClienteByIdQueryHandler: IRequestHandler<GetClienteByIdQuery, Response<ClienteDto>>
+        public class GetClienteByIdQueryHandler : IRequestHandler<GetClienteByIdQuery, Response<ClienteDto>>
         {
             private readonly IRepositoryAsync<Cliente> _repositoryAsync;
             private readonly IMapper _mapper;
@@ -38,8 +33,8 @@ namespace Application.Feautres.Clientes.Queries.GetClienteById
                 {
                     var dto = _mapper.Map<ClienteDto>(cliente);
                     return new Response<ClienteDto>(dto);
-                }                
+                }
             }
-        }        
+        }
     }
 }

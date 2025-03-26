@@ -7765,11 +7765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Identity\\Identity.csproj",
+      "projectUniqueName": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Identity\\Identity.csproj",
       "projectName": "Identity",
-      "projectPath": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Identity\\Identity.csproj",
+      "projectPath": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Identity\\Identity.csproj",
       "packagesPath": "C:\\Users\\fulla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Identity\\obj\\",
+      "outputPath": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7784,6 +7784,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7796,6 +7797,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7855,7 +7861,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

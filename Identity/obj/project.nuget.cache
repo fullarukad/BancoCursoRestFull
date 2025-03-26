@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JwUaF+cCIDOEgAyXXpCYG00gxaFQkxow59Cc/rNBSHzqJsRJu8NhycRUwvqGF8sN/jQsavGFFOPKMjRRo24jbA==",
+  "dgSpecHash": "wkSlyGtgR10=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Identity\\Identity.csproj",
+  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fulla\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fulla\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

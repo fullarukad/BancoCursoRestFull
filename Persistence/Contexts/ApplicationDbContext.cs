@@ -2,14 +2,7 @@
 using Domain.Common;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Sockets;
 using System.Reflection;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Persistence.Contexts
 {
@@ -33,7 +26,7 @@ namespace Persistence.Contexts
                     case EntityState.Modified:
                         entry.Entity.Created = _dateTime.NowUtc;
                         break;
-                    case EntityState.Added: 
+                    case EntityState.Added:
                         entry.Entity.LastModified = _dateTime.NowUtc;
                         break;
                     default: break;

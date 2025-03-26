@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMSr+B/46hPj2id50BpEbfykphgJEwBcxFy6tdadRzNZjGw+GaGg/a0wsWfJaT+tuzGpx+dOnqb78Tlte8LR5Q==",
+  "dgSpecHash": "x27jVWhMoB8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fulla\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\fulla\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",

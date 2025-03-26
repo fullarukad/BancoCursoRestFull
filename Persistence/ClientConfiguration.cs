@@ -1,11 +1,6 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Persistence
 {
@@ -31,7 +26,7 @@ namespace Persistence
                 .IsRequired()
                 .HasMaxLength(9);
 
-            builder.Property(p => p.Email)                
+            builder.Property(p => p.Email)
                 .HasMaxLength(100);
 
             builder.Property(p => p.Direccion)
@@ -40,7 +35,7 @@ namespace Persistence
 
             builder.Property(p => p.edad);
 
-            builder.Property(p => p.CreatedBy)                
+            builder.Property(p => p.CreatedBy)
                 .HasMaxLength(30);
 
             builder.Property(p => p.LastModifiedBy)

@@ -1,14 +1,8 @@
-﻿using Application.Exceptions;
-using Application.Interfaces;
+﻿using Application.Interfaces;
 using Application.Wrappers;
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Feautres.Clientes.Commands.UpdateClienteCommand
 {
@@ -46,7 +40,7 @@ namespace Application.Feautres.Clientes.Commands.UpdateClienteCommand
             {
                 cliente.Nombre = request.Nombre;
                 cliente.Apellido = request.Apellido;
-                cliente.Telefono= request.Telefono;
+                cliente.Telefono = request.Telefono;
                 cliente.FechaNacimiento = request.FechaNacimiento;
                 cliente.Email = request.Email;
                 cliente.Direccion = request.Direccion;

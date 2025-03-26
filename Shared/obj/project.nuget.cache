@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0r1XLbt6L1P6dA2wT7M6GA7MgrKlKm2r/omDhEylPCNa4EvMe3/GLHbdC6cc5BmkcNyiRFqYAVGeDUED9+gQA==",
+  "dgSpecHash": "K8cs34LZ2j4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documentos\\Data_Doug\\Tutorial\\BancoCursoRestTFull\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\fulla\\OneDrive\\Documents\\DataDoug\\Data\\GitHub\\BancoCursoRestFull\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fulla\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\fulla\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",

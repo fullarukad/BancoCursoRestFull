@@ -1,8 +1,8 @@
-﻿using FluentValidation;
+﻿using Application.Behaviours;
+using FluentValidation;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
-using MediatR;
-using Application.Behaviours;
 namespace Application
 {
     public static class ServiceExtensions
