@@ -31,11 +31,12 @@ namespace WebAPI.Middlewares
                         response.StatusCode = (int)HttpStatusCode.BadRequest;
                         break;
                     case Application.Exceptions.ValidationException e:
-                        //not found error
+                        // custom application error
                         response.StatusCode = (int)HttpStatusCode.BadRequest;
                         responseModel.Errors = e.Erros;
                         break;
                     case KeyNotFoundException e:
+                        //not found error
                         response.StatusCode = (int)HttpStatusCode.NotFound;
                         break;
                     default:
