@@ -13,3 +13,8 @@ C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identi
 C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\obj\Debug\net8.0\Identity.pdb
 C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\obj\Debug\net8.0\Identity.genruntimeconfig.cache
 C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\obj\Debug\net8.0\ref\Identity.dll
+C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\bin\Debug\net8.0\Application.dll
+C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\bin\Debug\net8.0\Domain.dll
+C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\bin\Debug\net8.0\Application.pdb
+C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\bin\Debug\net8.0\Domain.pdb
+C:\Users\fulla\OneDrive\Documents\DataDoug\Data\GitHub\BancoCursoRestFull\Identity\obj\Debug\net8.0\Identity.csproj.Up2Date
